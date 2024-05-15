@@ -1,6 +1,7 @@
 # Guessing Game
 
 Este é um jogo simples de adivinhação de palavras implementado em Python.
+Possível de adicionar mais palavras ou alterar o contexto das palavras.
 
 ## Como Jogar
 
@@ -25,7 +26,7 @@ Toda contribuição é bem-vinda!
 
 ## Autor
 
-Este jogo foi desenvolvido por [@educarvallho].
+Este jogo foi desenvolvido por [Eduardo Carvalho](https://github.com/educarvallho).
 
 ## Licença
 
