@@ -1,7 +1,7 @@
 # Guessing Game
 
-Este é um jogo simples de adivinhação de palavras implementado em Python.
-Possível de adicionar mais palavras ou alterar o contexto das palavras.
+Este é um jogo simples de adivinhação de palavras implementado em Python.  
+Possibilidade de adicionar mais palavras ou alterar o tema das palavras.
 
 ## Como Jogar
 
